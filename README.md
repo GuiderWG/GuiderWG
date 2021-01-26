@@ -39,7 +39,7 @@ I’m Vladimir, a senior junior front-end developer, creative coder who speciali
 <br>
 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=CB3837)
-![](https://img.shields.io/badge/Tools-yarn-informational?style=flat&logo=yarn&logoColor=blue&color=white)
+![](https://img.shields.io/badge/Tools-yarn-informational?style=flat&logo=yarn&logoColor=white&color=2C8EBB)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=001D34)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=EA4C1D)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=000000)
