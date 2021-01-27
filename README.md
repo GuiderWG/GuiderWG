@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Vladimir, a senior junior front-end developer, creative coder who specializes in front-end development.
+I’m Vladimir, a front-end developer, creative coder who specializes in front-end development.
 <br>
 
 ## 💼 Skills
