@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader2.jpg)
+![][Vladimir's GitHub Banner](./assets/GitHubHeader2.jpg)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/VladimirChase)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/GuiderWG)
